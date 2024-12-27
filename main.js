@@ -1,5 +1,6 @@
 const openEle = document.querySelector(".open-area")
 const infoEle = document.querySelector(".info")
+const body = document.querySelector("body")
 
 openEle.addEventListener("click", ()=>{
   openEle.classList.toggle("open")
@@ -8,3 +9,4 @@ openEle.addEventListener("click", ()=>{
     openEle.style.display = "none"
   }, 3000)
 })
+

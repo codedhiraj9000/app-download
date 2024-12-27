@@ -1,9 +1,9 @@
 :root {
   --boxRadi: 15px;
-  --pic1: url("/pic1.webp");
-  --pic2: url("/pic2.webp");
-  --pic3: url("/pic3.webp");
-  --pic4: url("/pic4.webp");
+  --pic1: url("pic1.webp");
+  --pic2: url("pic2.webp");
+  --pic3: url("pic3.webp");
+  --pic4: url("pic4.webp");
 }
 
 * {
@@ -270,3 +270,6 @@ header h1 span {
   border-radius: 0 0 15px 0;
   background: var(--pic4);
 }
+
+/* loading section */
+
