@@ -247,28 +247,28 @@ header h1 span {
   top: 0;
   left: 0;
   border-radius: 15px 0 0 0;
-  background: var(--pic3);
+  /* background: var(--pic3); */
 }
 
 .up-right {
   top: 0;
   right: 0;
   border-radius: 0 15px 0 0;
-  background: var(--pic2);
+  /* background: var(--pic2); */
 }
 
 .bottom-left {
   bottom: 0;
   left: 0;
   border-radius: 0 0 0 15px;
-  background: var(--pic1);
+  /* background: var(--pic1); */
 }
 
 .bottom-right {
   bottom: 0;
   right: 0;
   border-radius: 0 0 15px 0;
-  background: var(--pic4);
+  /* background: var(--pic4); */
 }
 
 /* loading section */
